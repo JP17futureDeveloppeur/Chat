@@ -9,7 +9,7 @@
 <body>
   <div class="wrapper">
     <section class="form login">
-      <header>Realtime Chat App</header>
+      <header>Chat App</header>
       <form action="#" method="POST" enctype="multipart/form-data" autocomplete="off">
         <div class="error-text"></div>
         <div class="field input">
@@ -19,6 +19,11 @@
         <div class="field input">
           <label>Password</label>
           <input type="password" name="password" placeholder="Enter your password" required>
+          <i class="fas fa-eye"></i>
+        </div>
+        <div class="field input">
+          <label>confirm Password</label>
+          <input type="password" name="confirm_password" placeholder="Enter your password again" required>
           <i class="fas fa-eye"></i>
         </div>
         <div class="field button">
