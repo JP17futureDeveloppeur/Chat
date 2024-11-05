@@ -21,6 +21,11 @@
           <input type="password" name="password" placeholder="Enter your password" required>
           <i class="fas fa-eye"></i>
         </div>
+        <div class="field input">
+          <label>confirm Password</label>
+          <input type="password" name="confirm_password" placeholder="Enter your password again" required>
+          <i class="fas fa-eye"></i>
+        </div>
         <div class="field button">
           <input type="submit" name="submit" value="Continue to Chat">
         </div>
