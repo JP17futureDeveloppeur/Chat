@@ -27,7 +27,7 @@
       </header>
       <div class="search">
         <span class="text">Select an user to start chat</span>
-        <input type="text" placeholder="Enter name to search...">
+        <input type="text" placeholder="entrer le nom a rechercher.">
         <button><i class="fas fa-search"></i></button>
       </div>
       <div class="users-list">
