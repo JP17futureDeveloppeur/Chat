@@ -26,8 +26,8 @@
         <a href="php/logout.php?logout_id=<?php echo $row['unique_id']; ?>" class="logout">Logout</a>
       </header>
       <div class="search">
-        <span class="text">Select an user to start chat</span>
-        <input type="text" placeholder="entrer le nom a rechercher.">
+        <span class="text">Select an user to start a beautiful chat</span>
+        <input type="text" placeholder="Enter name to search...">
         <button><i class="fas fa-search"></i></button>
       </div>
       <div class="users-list">

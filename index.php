@@ -18,6 +18,10 @@
             <input type="text" name="fname" placeholder="First name" required>
           </div>
           <div class="field input">
+            <label>second Name</label>
+            <input type="text" name="fname" placeholder="First name" required>
+          </div>
+          <div class="field input">
             <label>Last Name</label>
             <input type="text" name="lname" placeholder="Last name" required>
           </div>
